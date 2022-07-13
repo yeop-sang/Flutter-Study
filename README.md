@@ -2,6 +2,13 @@
 
 Flutter Tutorial을 위한 Projects
 
+## 공부한 links
+1. [Write First Flutter App](https://docs.flutter.dev/get-started/codelab)
+2. 
+3. 
+
+---
+default text
 ## Getting Started
 
 This project is a starting point for a Flutter application.
